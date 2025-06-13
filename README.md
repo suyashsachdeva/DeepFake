@@ -137,12 +137,6 @@ You can customize the workflow through CLI flags or environment variables:
 
 ---
 
-## ⚖️ License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
 ## 📬 Contact
 
 For bug reports or inquiries, contact **Suyash Sachdeva** at *[suyashsachdeva2403@gmail.com](mailto:suyashsachdeva2403@gmail.com)*.
