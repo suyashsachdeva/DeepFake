@@ -1,8 +1,6 @@
 Here’s a polished **README.md** draft for your DeepFake repository. You can tailor each section to include specifics from your codebase (e.g., script names, folder structure, model types).
 
----
 
-````markdown
 # DeepFake (📹 AI Face Swapping)
 
 A Python-based deepfake face-swapping toolkit built with TensorFlow and/or PyTorch for creating high-quality synthetic face videos.
