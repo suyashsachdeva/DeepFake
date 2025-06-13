@@ -1,6 +1,6 @@
 
 
-# DeepFake (📹 AI Face Swapping)
+# DeepFake Detection 
 
 A Python-based deepfake face-swapping toolkit built with TensorFlow and/or PyTorch for creating high-quality synthetic face videos.
 
