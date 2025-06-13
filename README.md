@@ -1,4 +1,3 @@
-Here’s a polished **README.md** draft for your DeepFake repository. You can tailor each section to include specifics from your codebase (e.g., script names, folder structure, model types).
 
 
 # DeepFake (📹 AI Face Swapping)
