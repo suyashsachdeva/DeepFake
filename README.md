@@ -33,7 +33,7 @@ A Python-based deepfake face-swapping toolkit built with TensorFlow and/or PyTor
    ```bash
    git clone https://github.com/suyashsachdeva/DeepFake.git
    cd DeepFake
-````
+```
 
 2. (Optional) Create and activate a virtual environment:
 
