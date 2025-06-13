@@ -145,15 +145,8 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 📬 Contact
 
-For bug reports or inquiries, contact **Suyash Sachdeva** at *[sachdeva@example.com](mailto:sachdeva@example.com)*.
+For bug reports or inquiries, contact **Suyash Sachdeva** at *[suyashsachdeva2403@gmail.com](mailto:suyashsachdeva2403@gmail.com)*.
 Also open to pull requests!
-
----
-
-## 🧠 Acknowledgements
-
-* Inspired by **DeepFaceLab** for foundational techniques ([arxiv.org][1], [github.com][2])
-* Uses methodologies from the “Deepfake” machine learning community ([arxiv.org][1])
 
 ---
 
@@ -166,10 +159,3 @@ Also open to pull requests!
 * Web UI frontend for simplified interaction
 * Support for real-time processing
 * Integration of voice deepfake capabilities
-
----
-
-Let me know if you’d like a walkthrough of any section or help integrating into your repo!
-
-[1]: https://arxiv.org/abs/2005.05535?utm_source=chatgpt.com "DeepFaceLab: Integrated, flexible and extensible face-swapping framework"
-[2]: https://github.com/iperov/DeepFaceLab?utm_source=chatgpt.com "DeepFaceLab is the leading software for creating deepfakes. - GitHub"
